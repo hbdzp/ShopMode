@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PerfectPixel">Perfect Pixel Engine brings higher definition picture quality. Pixel of the picture is enhanced for a more natural picture.</string>
+    <string name="IncredibleSurround">State-of-the-art electronic phase shifting mixes sounds from the left and right channels to widen the spatial image. This enhances the stereo effect, creating a more natural sound dimension.</string>
+    <string name="ClearSound">Philips applies its unique clarity enhancement technology to the full sound spectrum, delivering precise, detailed treble and powerful, deep bass - without compromising the sleek, compact TV design.</string>
+    <string name="DolbyDigitalPlus">Dolby Digital Plus is surround sound technology that delivers high-quality digital discrete channels. The five speaker channels produce a directional and more realistic effect and the Low-Frequency Effects (LFE) channel can often be felt as well as heard.</string>
+    <string name="AVL">"With AVL (Auto Volume Leveler), Sound is never more Stable, bringing a more consistent sound between commercials and movies."</string>
+    <string name="DTV">Built in DTMB digital TV signal module can directly receive terrestrial digital TV signal broadcasting, no need to receive DTMB signal through set-up box anymore.</string>
+    <string name="USB">The USB connector allows access to jpeg photos, MP3 music and video files on most USB sticks (USB memory-class device)</string>
+    <string name="HDMI">HDMI is a single cable to carry both picture and audio signals from your devices to your TV, saving you from cable clutter. It carries uncompressed signals, ensuring that you have the high quality from source to screen.</string>
+    <string name="WiFi">"Integrated WiFi lets you connect to Net TV, your smart phone and PC wirelessly. Simply connect the TV to your wireless home network with the easy set up wizard and enjoy all of the benefits of Smart TV wireless and hassle free."</string>
+    <string name="SmartTV">PHILIPS Smart TVs allow you to easily search for movies, TV shows, browse the web and find many other types of new interactive TV content.</string>
+    <string name="UNB">Ultra-narrow bezel for the best viewing experience!</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
